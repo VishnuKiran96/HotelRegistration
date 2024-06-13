@@ -1,0 +1,11 @@
+body{
+    background-image: url('../../public/images/background2.jpg');
+    background-size: cover;
+    background-attachment: fixed;
+}
+.shade{
+    background-color: rgba(0, 0, 0, 0.8);
+    height: 200vh;
+    margin-left: -12px;
+    margin-right: -12px;
+}
